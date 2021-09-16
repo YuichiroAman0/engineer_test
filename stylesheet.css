@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN";
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+.container {
+    width: 1170px;
+    padding: 50 15px;
+    margin :0 auto;
+  }
+.top-wrapper {
+    padding-top: 130px;
+    height: 750px;
+    background-image: url(/Users/yuichiro/Desktop/engineer_test/img/mainvisual.jpg);
+    background-size: cover;
+    text-align: left;
+}
+.top-wrapper h1 {
+    font-size: 13px;
+    font-weight: w3;
+}
+
+.top-wrapper h2 {
+    font-size: 48px;
+    font-weight: w6;
+    letter-spacing: 3px;
+    line-height: 20px;
+}
+
+.section {
+    text-align: center;
+    padding: 120px 0;
+}
+
+.heading {
+    font-family: Lato;
+    font-weight: Black;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 10px;
+    text-align: center;
+}
+.product-wrapper {
+    height: 500px;
+}
+
+.products {
+    margin: 0 50px;
+}
+.product {
+    float:left;
+    width:30%;
+    margin-right: 32px;
+}
+
+.product-wrapper {
+    height: 500px;
+}
+
+.style-contents{
+    float: left;
+}
+
+.text-contents {
+    text-align: left;
+    float: right;
+    margin: 250px 280px 150px 30px;
+}
+
+.message-wrapper {
+    text-align: center;
+
+}
+
+li {
+    list-style: none;
+}
+
+footer {
+    height: 50px;
+    padding:0 50px;
+
+}
+
+
+.footer-left li {
+    width: 100px;
+    float: left;
+    text-align: left;
+    margin-right: 2px;
+}
+
+
+ .footer-right li{
+     width: 200px;
+     float:  right;
+     font-size: 5px;
+     margin-right: 2px;
+ }
